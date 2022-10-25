@@ -1,0 +1,4 @@
+-cp src
+-main Main
+-js docs/kluez_pattern.js
+-D source-map-content
