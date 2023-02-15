@@ -9,7 +9,7 @@ Main.prototype = {
 	init: function() {
 		var _gthis = this;
 		window.document.addEventListener("DOMContentLoaded",function(event) {
-			$global.console.log("" + model_constants_App.NAME + " Dom ready :: build: " + "2022-10-25 11:26:35" + " ");
+			$global.console.log("" + model_constants_App.NAME + " Dom ready :: build: " + "2022-10-26 12:56:18" + " ");
 			_gthis.initHTML();
 			_gthis.initCanvas();
 		});
